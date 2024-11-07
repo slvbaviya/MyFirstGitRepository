@@ -8,4 +8,6 @@ Push : We send all files local into Git repository.
 Pull and merge: it Contain fetch and merge.
 checkout :Change one branch to another branch.
 
+To Create the pull changes in Git Change 2
+
 
