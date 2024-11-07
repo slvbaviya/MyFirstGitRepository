@@ -1,0 +1,11 @@
+GIT :Git is a version control system.It control local Changes(Commit,Add,Pull,Push)
+GitHub : Files are store in github Repository(Cloud Storage).
+Clone :With the help of we can clone and use ur local system.
+Stage : File s ready.Am going to commit (Particular files we can commit).
+For an Example 10 files i have but i am going to commit only 3 files tat time we use stage.
+
+Push : We send all files local into Git repository.
+Pull and merge: it Contain fetch and merge.
+checkout :Change one branch to another branch.
+
+
